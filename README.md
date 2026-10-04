@@ -10,6 +10,8 @@ LLM:
   Learned Prefix Caching for Efficient LLM Inference:
   https://openreview.net/pdf?id=Vj48eXaQDM
 
+  https://arxiv.org/pdf/2609.28870
+
 cache:
 
 
