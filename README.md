@@ -1,6 +1,7 @@
 # literature
 about literature
 
+模拟器：https://kvcache.ai/
 LLM:
   
   smart cache:
