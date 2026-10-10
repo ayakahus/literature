@@ -32,6 +32,9 @@ LLM:
   Not All Tokens Are Worth Caching: Learning Semantic-Aware Eviction for LLM Prefix Caches：
   https://arxiv.org/html/2605.18825v1
 
+  Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management:
+  https://arxiv.org/abs/2605.06472
+
 cache:
 
 
