@@ -35,6 +35,9 @@ LLM:
   Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management:
   https://arxiv.org/abs/2605.06472
 
+  PEEK: Predictive Queue-Informed KV CacheManagement for LLM Serving：
+  https://arxiv.org/abs/2607.02525?utm_source=chatgpt.com
+
 cache:
 
 
