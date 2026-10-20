@@ -37,7 +37,9 @@ LLM:
 
   PEEK: Predictive Queue-Informed KV CacheManagement for LLM Serving：
   https://arxiv.org/abs/2607.02525?utm_source=chatgpt.com
-
+  
+  CacheSlide: Unlocking Cross Position-Aware KV Cache Reuse for Accelerating LLM Serving：
+  https://www.usenix.org/system/files/fast26-liu-yang.pdf
 cache:
 
 
