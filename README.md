@@ -40,6 +40,11 @@ LLM:
   
   CacheSlide: Unlocking Cross Position-Aware KV Cache Reuse for Accelerating LLM Serving：
   https://www.usenix.org/system/files/fast26-liu-yang.pdf
+
+  Gandalf: Flash Shall Not Die! Increasing Flash Storage Lifetime for KV Cache Offloading in LLM Serving：
+  https://arxiv.org/pdf/2610.30791
+
+  
 cache:
 
 
