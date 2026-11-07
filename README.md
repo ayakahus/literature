@@ -44,6 +44,9 @@ LLM:
   Gandalf: Flash Shall Not Die! Increasing Flash Storage Lifetime for KV Cache Offloading in LLM Serving：
   https://arxiv.org/pdf/2610.30791
 
+  Bidaw: Enhancing Key-Value Caching for Interactive LLM Serving via Bidirectional Computation–Storage Awareness：
+  https://www.usenix.org/system/files/fast26-hu-shipeng.pdf
+
   
 cache:
 
