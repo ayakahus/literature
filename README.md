@@ -47,6 +47,8 @@ LLM:
   Bidaw: Enhancing Key-Value Caching for Interactive LLM Serving via Bidirectional Computation–Storage Awareness：
   https://www.usenix.org/system/files/fast26-hu-shipeng.pdf
 
+  TokenPilot: Cache-Efficient Context Management for LLM Agents：
+  https://arxiv.org/abs/2606.17016
   
 cache:
 
