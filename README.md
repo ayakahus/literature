@@ -50,8 +50,11 @@ LLM:
   TokenPilot: Cache-Efficient Context Management for LLM Agents：
   https://arxiv.org/abs/2606.17016
 
-  TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving
+  TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving:
   https://arxiv.org/abs/2608.25523
+
+  ContextPilot: Fast Long-Context Inference via Context Reuse:
+  https://arxiv.org/abs/2511.03475?utm_source=chatgpt.com
   
 cache:
 
