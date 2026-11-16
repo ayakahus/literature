@@ -55,6 +55,9 @@ LLM:
 
   ContextPilot: Fast Long-Context Inference via Context Reuse:
   https://arxiv.org/abs/2511.03475?utm_source=chatgpt.com
+
+  Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot：
+  https://usenix.org/conference/fast25/presentation/qin
   
 cache:
 
